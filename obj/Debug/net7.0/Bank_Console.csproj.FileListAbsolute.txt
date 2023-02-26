@@ -1,0 +1,15 @@
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\bin\Debug\net7.0\Bank_Console.exe
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\bin\Debug\net7.0\Bank_Console.deps.json
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\bin\Debug\net7.0\Bank_Console.runtimeconfig.json
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\bin\Debug\net7.0\Bank_Console.dll
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\bin\Debug\net7.0\Bank_Console.pdb
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.csproj.AssemblyReference.cache
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.AssemblyInfoInputs.cache
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.AssemblyInfo.cs
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.dll
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\refint\Bank_Console.dll
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.pdb
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\Bank_Console.genruntimeconfig.cache
+C:\Users\Felipe Augusto\Pictures\Visual Code\Bank_Console\obj\Debug\net7.0\ref\Bank_Console.dll
